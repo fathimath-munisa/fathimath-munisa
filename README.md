@@ -51,7 +51,7 @@ Currently seeking exciting opportunities in **India** & **UAE** — Immediate Jo
 
 ## 💼 Career Snapshot
 
-- **[Qburst Technologies](https://qburst.com) (May 2018 – May 2025)** → Senior Software Engineer  
+ ### **[Qburst Technologies](https://qburst.com) (May 2018 – May 2025)** → Senior Software Engineer  
   - Led **UX/UI redesigns** across platforms → 40% higher engagement.  
   - Optimized web apps with React/Angular/Node.js.  
   - Mentored juniors, wrote tests with 80% coverage, improved productivity with GenAI tools.
