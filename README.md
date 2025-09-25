@@ -45,7 +45,7 @@ Currently seeking exciting opportunities in **India** & **UAE** — Immediate Jo
 ## 🏆 Open Source Contributions
 
 ### [CareSync](https://github.com/akathedeveloper/CareSync)
-– Contributed features, bug fixes, and improvements to enhance functionality and usability.
+- Contributed features, bug fixes, and improvements to enhance functionality and usability.
 
 ---
 
