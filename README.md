@@ -21,22 +21,22 @@ Currently seeking exciting opportunities in **India** & **UAE** — Immediate Jo
 
 ## 📌 Featured Projects
 
-### 🏗️ Winmore App – Tender Management Platform
+### [Winmore App – Tender Management Platform](https://www.winmore.app/)
 - React, Redux, Node.js, Express, PostgreSQL  
 - Boosted workflow efficiency by **35%** through optimized UI and financial data accuracy.  
 - Implemented currency exchange, dynamic pickers, and cascading user fields for better adaptability.
 
-### 🧪 TestMate – Test Execution & Management Platform
+### [TestMate – Test Execution & Management Platform](https://testmate.qburst.in/)
 - React, Redux, Jest  
 - Built a responsive automation platform with **Google OAuth**, filters, CRUD, and secure APIs.  
 - Improved multi-user stability by **90%** and enhanced security against XSS attacks.
 
-### 🎯 Evalgator Recruit – Recruitment Platform
+### [Evalgator Recruit – Recruitment Platform](https://www.evalgator.com/en-in/applicant-tracking-system)
 - Angular, Keycloak, JWT, Jasmine, Karma  
 - Led front-end development and guided juniors, improving team efficiency.  
 - Enhanced security (50% fewer login issues) and revamped UX with theme-based responsive design, boosting engagement by **40%**.
 
-### 🎮 Daimler GTLS Gaming App
+### [Daimler GTLS Gaming App](https://learningsystem.mercedes-benz.com)
 - Angular, Jasmine, Karma  
 - Designed interactive learning modules with multilingual support, increasing global accessibility by **40%**.
 
