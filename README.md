@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | React, Angular, Next.js, Node.js, Android, MEA(R)N | 7+ Years of Experience**
 
 I design and build **scalable, high-performance web and mobile applications** with a focus on **UX, accessibility, and security**.  
-Currently seeking exciting opportunities in **India** **UAE** — Immediate Joiner.
+Currently seeking exciting opportunities in **India** & **UAE** — Immediate Joiner.
 
 ---
 
