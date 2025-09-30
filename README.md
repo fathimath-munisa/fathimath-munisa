@@ -75,6 +75,9 @@ Currently seeking exciting opportunities in **India** & **UAE** — Immediate Jo
 - ✅ **Next.js 15 & React - The Complete Guide** – Udemy  
   [View Certificate](https://www.udemy.com/certificate/UC-c195797b-967e-415c-bfa5-78372d474c24)
 
+- ✅ **Claude Code: A Highly Agentic Coding Assistant** – DeepLearning.AI
+  [View Certificate](https://learn.deeplearning.ai/accomplishments/5be6a852-c1fa-4db4-a058-000479bf71ac)
+
 ---
 
 ## 📊 Coding Profiles
