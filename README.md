@@ -69,6 +69,9 @@ Currently seeking exciting opportunities in **India** & **UAE** — Immediate Jo
 - ✅ **Frontend System Design - From Zero to Hero** – NamasteDev.com  
   [View Certificate](https://namastedev.com/munimun52/certificates/namaste-frontend-system-design)
 
+- ✅ **Namaste Node.js ** – NamasteDev.com  
+  [View Certificate](https://namastedev.com/munimun52/certificates/namaste-node)
+
 - ✅ **Cursor Course: FullStack Development with Cursor Vibe Coding** – Udemy  
   [View Certificate](https://www.udemy.com/certificate/UC-2e666ad0-dcba-44aa-a9ec-a9744cbcb8ca)
 
